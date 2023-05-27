@@ -4,4 +4,4 @@
 System to publish, update and remove live website contents.
 
 <h2>Build/URL</h2>
-https://qsdlr.org/cms/
+https://cmsaspnetcorewebapi.azurewebsites.net/swagger/

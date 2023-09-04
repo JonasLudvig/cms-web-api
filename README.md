@@ -8,3 +8,5 @@ https://cmsaspnetcorewebapi.azurewebsites.net/swagger/
 
 <h3>Client application</h3>
 https://qsdlr.org/cms/
+<br><br>
+Should you also want to check out the client application on GitHub, visit https://github.com/jonasludvig/cms-web-api-client/.
